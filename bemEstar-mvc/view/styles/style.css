@@ -1,0 +1,91 @@
+html, body {
+    height: 100% !important;
+    background-color: #edece6 !important;
+}
+
+.body-login {
+    display: flex;
+    align-items: center;
+}
+
+.icon-eye {
+    position: absolute;
+    right: 5%;
+    top: 35%;
+}
+
+.alerta-label {
+    color: red !important;
+}
+
+.alerta-input {
+    border: 2px solid red !important;
+}
+
+.btn-success {
+    color: #fff !important;
+    background-color: #198754 !important;
+    border-color: #198754 !important;
+}
+
+.btn-success:focus {
+    box-shadow: 0 0 0 0.25rem rgb(60 153 110 / 50%) !important;
+}
+
+.btn-success:hover {
+    background-color: #27ca7e !important;
+    border-color: #27ca7e !important;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
+}
+
+.success-hover:hover {
+    color: #27ca7e !important;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
+}
+
+.success-hover-background:hover {
+    background-color: #27ca7e !important;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.floating-btn {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    right: 40px;
+    background-color: #198754;
+    color: #FFF;
+    border-radius: 50px;
+    text-align: center;
+}
+
+.plus {
+    margin-top: 18px;
+    font-size: 25px;
+}
+
+.box-shadow-padrao {
+    box-shadow: 2px 2px 3px #999;
+}
+
+.green-table-row {
+    background-color: #a4e4c7;
+}
+
+@media screen and (max-width: 900px) {
+    .floating-btn {
+        bottom: 20px;
+        right: 20px;
+    }
+}
+
+@media screen and (min-width: 900px) {
+    .w-lg-50 {
+        width: 50% !important;
+    }
+}

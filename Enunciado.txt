@@ -1,0 +1,12 @@
+Para a entrega serão cobradas as seguintes rubricas:
+Pontualidade
+Arquitetura MVC
+Páginas dinâmicas
+Persistência de dados 
+Sessions
+Vou enviar ainda um exemplo completo para vocês darem uma olhada. Qualquer dúvida ou dificuldade, entrem em contato por email (fgsantos@unaerp.br).
+
+Forma de entrega: Git, preferencialmente e recomendável, ou link do Drive. Entregue também o código fonte, compactado.
+Vou criar um form no Google Form com um link para o envio. Todos devem enviar, quem não enviar, não terá a nota.
+
+Não esqueçam de colocar o nome dos integrantes do grupo!!
